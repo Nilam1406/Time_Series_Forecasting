@@ -68,7 +68,7 @@ All required packages are listed in `requirements.txt`.
 
 1. **Clone the Repository**
    ```powershell
-   git clone https://github.com/Agivant-Technologies-India-Pvt-Ltd/forecasting.git
+   git clone https://github.com/Nilam1406/Time_Series_Forecasting.git
    cd forecasting
    ```
 
